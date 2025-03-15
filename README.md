@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
   
-  <!-- Smaller Coding Typing GIF -->
-  <img alt="Coding Typing GIF" src="/coding-typing.gif" style="max-width: 120px; height: auto;">
+<picture>
+   <img alt="Coding Typing GIF" src="/coding-typing.gif" style="max-width: 120px; height: auto;">
+</picture>
+
+
 </div>
