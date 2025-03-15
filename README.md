@@ -29,9 +29,10 @@
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <picture>
+  <img alt="github-snake" src="/wow-world-of-warcraft.gif" />
+</picture>
 </div>
 
 
-<picture>
-  <img alt="github-snake" src="/wow-world-of-warcraft.gif" />
-</picture>
+
