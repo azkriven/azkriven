@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
   
 <picture>
-   <img alt="Coding Typing GIF" src="/coding-typing.gif" style="max-width: 120px; height: auto;">
+   <img alt="Coding Typing GIF" src="/coding-typing.gif" style="scale: 50%; height: auto;">
 </picture>
 
 
