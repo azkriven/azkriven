@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img src="./wow-world-of-warcraft.gif" width="200"/>
+  <img src="/wow-world-of-warcraft.gif" width="200"/>
 </p>
 
 <picture>
