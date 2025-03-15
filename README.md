@@ -16,9 +16,6 @@
 
 
 
-<marquee behavior="scroll" direction="left">
-  ❤  ❤ ❤
-</marquee>
 
 
 <div align="left">
@@ -56,9 +53,6 @@ Proficient in modern web technologies, including:
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
 </div>
 
-<marquee behavior="scroll" direction="left">
-  ❤  ❤ ❤
-</marquee>
 
 <picture>
   <img align="right" height="150" src="https://media.tenor.com/lVhFnY9tc94AAAAj/anime-dance.gif" />
@@ -81,9 +75,6 @@ Proficient in modern web technologies, including:
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
 </picture>
 
-<marquee behavior="scroll" direction="left">
-  ❤  ❤ ❤
-</marquee>
 
 <pre>⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿
 ⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
