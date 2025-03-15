@@ -1,8 +1,14 @@
-<div style="display: flex; justify-content: center; align-items: center; background-color: black; padding: 20px; width: 100%;">
-  <picture>
-    <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" style="max-width: 100%; height: auto;">
-  </picture>
-</div>
+<table align="center" bgcolor="#000000">
+  <tr>
+    <td>
+      <center>
+        <picture>
+          <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" alt="Image">
+        </picture>
+      </center>
+    </td>
+  </tr>
+</table>
 
 # Hello World! I'm Euger Bonete, a Web Developer 👋🏼
 
