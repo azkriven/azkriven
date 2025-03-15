@@ -1,5 +1,7 @@
 <div style="text-align: center; background-color: black; padding: 20px;">
+  <picture>
   <img src="https://i.pinimg.com/originals/e5/4a/fa/e54afabd75adb33464e85f2687b43f87.gif" style="max-width: 100%; display: block; margin: auto;">
+  </picture>
 </div>
 
 # Hello World! I'm Euger Bonete, a Web Developer 👋🏼
