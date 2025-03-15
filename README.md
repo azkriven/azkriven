@@ -12,15 +12,28 @@
 
 
 
-# Hello World! I'm Euger Bonete, a Web Developer 👋🏼
+# Hello World! I'm Euger, a Web Developer 👋
+
+<picture>
+  <img align="left" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRmcmI4azgwNTB1OGMxZW85bjljcXlxbHEwODE3bXY3MmNwcWs4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13xxoHrXk4Rrdm/giphy.gif" />
+</picture>
+
+
+
+
+<div align="left">
 
 🎓 Pursuing a degree in Information Technology at Northern Iloilo State University  
 💻 Web developer since 2021 <br/>
 ⚒ My old github account https://github.com/azkriven16/
 
----
+</div>
 
-### 💻 Tech Stack:
+
+
+
+
+# 💻 Tech Stack:
 Proficient in modern web technologies, including:
 
 
@@ -43,15 +56,15 @@ Proficient in modern web technologies, including:
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
 </div>
 
----
+
 
 <picture>
-  <img align="right" height="150" src="https://media.tenor.com/PZsEGrhO1YsAAAAi/rukia-bleach.gif" />
+  <img align="left" height="150" src="https://media.tenor.com/lVhFnY9tc94AAAAj/anime-dance.gif" />
 </picture>
 
 
 
-### 📬 Connect with Me:
+# 📬 Connect with Me:
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"  />
