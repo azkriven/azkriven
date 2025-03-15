@@ -1,11 +1,10 @@
-<div align="center">
+
 <img src="https://wallpapercave.com/wp/wp10474992.png" alt="GitHub Banner" width="100%" />
-<!--   <img src="https://media.tenor.com/vcxr4D4kZ6sAAAAC/wow-world-of-warcraft.gif" style="width: 100%; height: auto; max-height: 250px;" alt="World of Warcraft Alexstrasza Anime GIF" /> -->
-</div>
 
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media-based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my YouTube channel <i>tobi tackles tech</i>
 
+<img src="https://media.tenor.com/vcxr4D4kZ6sAAAAC/wow-world-of-warcraft.gif" width="100%" alt="World of Warcraft Alexstrasza Anime GIF" />
 
 # 💻 Tech Stack:
 
