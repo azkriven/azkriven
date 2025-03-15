@@ -1,17 +1,13 @@
-<style>
-  .responsive-img {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-  }
-</style>
-
-<img src="https://wallpapercave.com/wp/wp10474992.png" alt="GitHub Banner" class="responsive-img"/>
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp10474992.png" alt="GitHub Banner" width="100%" style="height: 150px; object-fit: cover;"/>
+</p>
 
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media-based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my YouTube channel <i>tobi tackles tech</i>
 
-<img src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" class="responsive-img" autoplay loop />
+<p align="center">
+  <img src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="100%" style="height: 150px; object-fit: cover;" autoplay loop/>
+</p>
 
 # 💻 Tech Stack:
 
