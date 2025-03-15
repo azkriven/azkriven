@@ -4,7 +4,7 @@
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media-based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my YouTube channel <i>tobi tackles tech</i>
 
-<img src="https://media.tenor.com/vcxr4D4kZ6sAAAAC/wow-world-of-warcraft.gif" width="100%" alt="World of Warcraft Alexstrasza Anime GIF" />
+<img src="[https://media.tenor.com/vcxr4D4kZ6sAAAAC/wow-world-of-warcraft.gif](https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif)" width="100%" alt="World of Warcraft Alexstrasza Anime GIF" />
 
 # 💻 Tech Stack:
 
