@@ -5,17 +5,18 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
 </picture>
 
-<!-- Introduction -->
-<h1>Hello World! I'm Tobi, a German Web Developer 👋🏼</h1>
-<p>
-  🛜 Currently working on my own <a href="https://www.tobiasmeyhoefer.de" target="_blank" rel="noopener noreferrer">webpage</a>.<br>
-  👨🏼‍🎓 Studying media-based computer science at Berliner Hochschule für Technik.<br>
-  👨🏼‍💻 Working as a web developer since 2022.<br>
-  🎬 Just started my YouTube channel <em>tobi tackles tech</em>.
-</p>
+# Hello World! I'm Euger Bonete, a Web Developer 👋🏼
 
-<!-- Tech Stack -->
-<h2>💻 Tech Stack:</h2>
+🎓 Pursuing a degree in Information Technology at Northern Iloilo State University  
+💻 Web developer since 2021 <br/>
+⚒ My old github account https://github.com/azkriven16/
+
+---
+
+## 💻 Tech Stack:
+Proficient in modern web technologies, including:
+
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -35,24 +36,16 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
 </div>
 
-
-
-###
+---
 
 <picture>
-<img align="right" height="150" src="https://media.tenor.com/PZsEGrhO1YsAAAAi/rukia-bleach.gif" />
+  <img align="right" height="150" src="https://media.tenor.com/PZsEGrhO1YsAAAAi/rukia-bleach.gif" />
 </picture>
 
+## 📬 Connect with Me:
 
 <div align="left">
-
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
