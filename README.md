@@ -1,10 +1,9 @@
-
-<img src="https://wallpapercave.com/wp/wp10474992.png" alt="GitHub Banner" width="100%" />
+<img src="https://wallpapercave.com/wp/wp10474992.png" alt="GitHub Banner" width="100%" height="150px"/>
 
 # Hello World!, I'm Tobi, a German Web Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media-based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my YouTube channel <i>tobi tackles tech</i>
 
-<img src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="100%" alt="World of Warcraft Alexstrasza Anime GIF" />
+<img src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="100%" height="150px" alt="World of Warcraft Alexstrasza Anime GIF" />
 
 # 💻 Tech Stack:
 
